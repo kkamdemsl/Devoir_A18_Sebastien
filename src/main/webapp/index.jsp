@@ -9,6 +9,5 @@
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
-<h3>Intervention sur la branche b2</h3>
 </body>
 </html>
