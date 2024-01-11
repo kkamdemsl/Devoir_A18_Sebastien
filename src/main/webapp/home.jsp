@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>Changement par la branche b4</title>
 </head>
 <body>
 <h1><%= "Salut!" %>
